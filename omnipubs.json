@@ -1,0 +1,1118 @@
+{
+  "items": [
+    {
+      "uuid": "08c5b28ac0ef4c9ca486af36d42adccb",
+      "external_id": "H08R7S-AUS-ENG",
+      "data": {
+        "title": "Does the Tech Industry Need a Reboot?",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "Adi Ignatius", "Telle Whitney"],
+        "creation_date": "2025-05-27T12:00:03Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-0.png"
+    },
+    {
+      "uuid": "0b5c4edf50834aa29d1e6ce08f2126af",
+      "external_id": "H08S3A-AUS-ENG",
+      "data": {
+        "title": "Building an AI-Powered, Talent-Friendly Organization",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "Adi Ignatius", "JANE SUN"],
+        "creation_date": "2025-06-04T10:02:30Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "0fd589be22034c91845a4061d0fc989b",
+      "external_id": "H00AB8-AUS-ENG",
+      "data": {
+        "title": "Sheryl Sandberg: The HBR Interview",
+        "subtitle": null,
+        "creators": [
+          "Sarah Green Carmichael",
+          "Adi Ignatius",
+          "Sheryl K. Sandberg"
+        ],
+        "creation_date": "2013-03-14T22:22:08Z",
+        "publisher": "Harvard Business Publishing",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "12ed948873f04684badd24346ef5e168",
+      "external_id": "H07FNG-AUS-ENG",
+      "data": {
+        "title": "Best of IdeaCast 2022",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Curt Nickisch"],
+        "creation_date": "2023-01-03T17:23:12Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "179f93c43c0340cc83be194fa6a9db5f",
+      "external_id": "H0683B-AUS-ENG",
+      "data": {
+        "title": "What Black Leaders Bring to the Table",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "CHAD SANDERS"],
+        "creation_date": "2021-03-02T14:00:14Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "21fe069fdaa843a0b28b55dde810f636",
+      "external_id": "H05OQ6-AUS-ENG",
+      "data": {
+        "title": "Sisterhood Is Critical to Racial Justice",
+        "subtitle": null,
+        "creators": [
+          "Amy Gallo",
+          "Amy Bernstein",
+          "Sarah Green Carmichael",
+          "Nicole Torres",
+          "Ella Bell Smith",
+          "Stella M. Nkomo",
+          "Tina R Opie",
+          "Veronica Rabelo"
+        ],
+        "creation_date": "2020-06-08T17:36:29Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "251a9360814a4ab28e30207842ad9913",
+      "external_id": "H06267-AUS-ENG",
+      "data": {
+        "title": "Race at Work: Lessons in Diversity and Culture from Mastercard",
+        "subtitle": null,
+        "creators": ["Porter Braswell", "Curt Nickisch", "DONNA JOHNSON"],
+        "creation_date": "2020-12-03T14:03:06Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "2a157992e0824f368d7fb791e9a3fdcf",
+      "external_id": "H06OLX-AUS-ENG",
+      "data": {
+        "title": "Innovating in the Feminine Care Market",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Rembrand Koning"],
+        "creation_date": "2021-11-02T12:00:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-0.png"
+    },
+    {
+      "uuid": "2a85a330f59b4e109c7dd79c9f018aea",
+      "external_id": "H07USD-AUS-ENG",
+      "data": {
+        "title": "How Authentic Should You Be as a Leader?",
+        "subtitle": null,
+        "creators": ["HANNAH BATES", "Brian Kenny", "TONY MAYO"],
+        "creation_date": "2023-10-11T10:02:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "2cc4c3d801c74bd197c3263f6a57bfe1",
+      "external_id": "H0680Y-AUS-ENG",
+      "data": {
+        "title": "Can Historic Social Injustices be Addressed Through Reparations?",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Mihir A. Desai"],
+        "creation_date": "2021-03-02T12:53:13Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "2d2f9cbaf5064e5d9f8e1a1280c78832",
+      "external_id": "H07C1D-AUS-ENG",
+      "data": {
+        "title": "Respect for Any Body Size",
+        "subtitle": null,
+        "creators": [
+          "Amy Bernstein",
+          "Amy Gallo",
+          "Habibah Williams",
+          "Grace Lemmon",
+          "Nina TBD",
+          "Anna TBD"
+        ],
+        "creation_date": "2022-10-31T19:38:21Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "2d412fab39d144f2b8a2b13c68d8ca3e",
+      "external_id": "H07XXP-AUS-ENG",
+      "data": {
+        "title": "Sexism Is Everywhere",
+        "subtitle": null,
+        "creators": ["Amy Gallo", "Katie Coffman", "Michelle Duguid"],
+        "creation_date": "2023-12-04T19:50:14Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-0.png"
+    },
+    {
+      "uuid": "2d869c04dad7449b9a834f0c546500d1",
+      "external_id": "H04V2G-AUS-ENG",
+      "data": {
+        "title": "State Street’s SHE: Investing in Women Leaders",
+        "subtitle": null,
+        "creators": ["Brian Kenny"],
+        "creation_date": "2017-09-19T20:21:41Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "2f6d661cdd2344dd9d3b33a1259a1313",
+      "external_id": "H05OS3-AUS-ENG",
+      "data": {
+        "title": "Corporate America’s Work in Fighting Racism is Just Beginning",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Ella F Washington"],
+        "creation_date": "2020-06-09T15:17:34Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "35bdcb1f3cea4160839169e97a04934c",
+      "external_id": "H06D7N-AUS-ENG",
+      "data": {
+        "title": "CEO Series: Mastercard’s Ajay Banga on Promoting Financial Inclusion",
+        "subtitle": null,
+        "creators": ["Ajay Banga", "ALISON BEARD"],
+        "creation_date": "2021-05-13T16:23:15Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "375b18b44617480ab7b41349a392dcb1",
+      "external_id": "H066J3-AUS-ENG",
+      "data": {
+        "title": "HBR Presents: Coaching Real Leaders",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "Dan McGinn"],
+        "creation_date": "2021-02-04T14:00:43Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "39ffc6a2a3b74f7a9e9f8e1ba478fbc9",
+      "external_id": "H06RS7-AUS-ENG",
+      "data": {
+        "title": "Gaslighting at Work—and What to Do About It",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Mita Mallick"],
+        "creation_date": "2021-12-14T14:20:51Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "3e8c5f6eae904207aa5d041214b19916",
+      "external_id": "H088E1-AUS-ENG",
+      "data": {
+        "title": "The Hidden Burden of Long Covid and What Companies Can Do",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Beth Pollack", "Ludmila Praslova"],
+        "creation_date": "2024-05-14T12:00:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "40cdb4f0a7cd49069de1d5163b5f5a59",
+      "external_id": "H08MWH-AUS-ENG",
+      "data": {
+        "title": "How CEO Ed Bastian Is Transforming DEI at Delta Air Lines",
+        "subtitle": null,
+        "creators": ["HANNAH BATES", "Brian Kenny", "LINDA HILL"],
+        "creation_date": "2025-02-12T11:02:20Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "41470a7353194d9fb450ee07148e5c34",
+      "external_id": "H07C1K-AUS-ENG",
+      "data": {
+        "title": "How Women (and Everyone) Can Form Deeper Bonds to Fight Bias at Work",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Tina Opie"],
+        "creation_date": "2022-11-01T13:00:04Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-0.png"
+    },
+    {
+      "uuid": "47190b0946054c0b8c3267d6b598a191",
+      "external_id": "H08HKK-AUS-ENG",
+      "data": {
+        "title": "Why DEI Still Matters (and How to Get It Right)",
+        "subtitle": null,
+        "creators": [
+          "HANNAH BATES",
+          "JAMES WHITE",
+          "Krista White",
+          "ALISON BEARD"
+        ],
+        "creation_date": "2024-11-13T11:02:38Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "4c8b910c53724550a50a105c0993f950",
+      "external_id": "H08BHF-AUS-ENG",
+      "data": {
+        "title": "Transforming the Workplace for People with Disabilities",
+        "subtitle": null,
+        "creators": [
+          "Brian Kenny",
+          "Lakshmi Ramarajan",
+          "Hannah Riley Bowles",
+          "Nadine Vogel"
+        ],
+        "creation_date": "2024-07-23T12:22:05Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "4d0193c19cdd4d9b93ac96fb69a56b0f",
+      "external_id": "H07REG-AUS-ENG",
+      "data": {
+        "title": "The VC Fund Closing Equity Gaps — and Making Money",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "FREADA KAPOR", "MITCH KAPOR"],
+        "creation_date": "2023-08-08T07:00:53Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "51a1cd2e58454ee98f802762c6aae029",
+      "external_id": "H04N0U-AUS-ENG",
+      "data": {
+        "title": "Race Issues",
+        "subtitle": null,
+        "creators": ["Dan McGinn", "Alison Beard", "Tina R Opie"],
+        "creation_date": "2018-11-02T01:05:23Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "536d27a4279846c98e12fcca9a0c8f4f",
+      "external_id": "H06LHI-AUS-ENG",
+      "data": {
+        "title": "Why JPMorgan Chase Is Committed to Improving Racial Equity in Banking",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "ALICE RODRIGUEZ", "JOE BOWER"],
+        "creation_date": "2021-09-21T13:30:16Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "537c0c69a94a40c5af698bb440b9ba46",
+      "external_id": "H083ED-AUS-ENG",
+      "data": {
+        "title": "Why the Glass Cliff Persists",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "SOPHIE WILLIAMS"],
+        "creation_date": "2024-03-26T12:00:46Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "55930d66380e4e29b7a535231d91371d",
+      "external_id": "H04V2V-AUS-ENG",
+      "data": {
+        "title": "Black Business Leaders Series: John Rogers and the Importance of Hiring Minority-Owned Services Firms",
+        "subtitle": null,
+        "creators": ["Brian Kenny"],
+        "creation_date": "2018-02-13T22:20:16Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "596f4722e7f34c44a9eb9776fd96b3ed",
+      "external_id": "H08CTY-AUS-ENG",
+      "data": {
+        "title": "Ground Your DEI Efforts in Data",
+        "subtitle": null,
+        "creators": ["Amy Bernstein", "Amy Gallo", "Lily Zheng"],
+        "creation_date": "2024-08-12T18:16:47Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "5bf43674e5a94d999454ccff15f418d5",
+      "external_id": "H05O8A-AUS-ENG",
+      "data": {
+        "title": "Helping Men Help Us",
+        "subtitle": null,
+        "creators": [
+          "Amy Gallo",
+          "Amy Bernstein",
+          "W Brad Johnson",
+          "David Smith",
+          "Lily Zheng"
+        ],
+        "creation_date": "2020-06-01T18:24:27Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "5c96e5e4efa241f99c2eff3a093dcd50",
+      "external_id": "H04HF0-AUS-ENG",
+      "data": {
+        "title": "Why Opening Up at Work Is Harder for Minorities",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Katherine Phillips"],
+        "creation_date": "2018-08-07T17:23:38Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "5ccbe6a97e854010a0d0e98a8053f669",
+      "external_id": "H07D1O-AUS-ENG",
+      "data": {
+        "title": "What We Still Misunderstand About Mentorship and Sponsorship",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Herminia Ibarra"],
+        "creation_date": "2022-11-15T14:00:27Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "5cdf0053299c41149dfb31ee5800bfb6",
+      "external_id": "H07DFF-AUS-ENG",
+      "data": {
+        "title": "How to Push for Policy Changes at Your Company",
+        "subtitle": null,
+        "creators": [
+          "Amy Gallo",
+          "Amy Bernstein",
+          "Ashley Whilans",
+          "Lily Zheng"
+        ],
+        "creation_date": "2022-11-21T17:21:59Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "5dcdf34bff474a3c8c0820b4a78ea44f",
+      "external_id": "H048XM-AUS-ENG",
+      "data": {
+        "title": "Why CEOs Are Taking a Stand",
+        "subtitle": null,
+        "creators": [
+          "Curt Nickisch",
+          "Howard Schultz",
+          "Dan Schulman",
+          "Michael W. Toffel",
+          "Aaron Chatterji",
+          "Ken Frazier"
+        ],
+        "creation_date": "2018-03-27T19:32:12Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "5dfc935f0bd4480a896321785caa2eb1",
+      "external_id": "H06OKO-AUS-ENG",
+      "data": {
+        "title": "Anti-Bias Policies That Really Work in Customer Service",
+        "subtitle": null,
+        "creators": [
+          "Curt Nickisch",
+          "Paul Michelman",
+          "Sarah Green Carmichael",
+          "ALEXANDRA FELDBERG",
+          "Tami Kim"
+        ],
+        "creation_date": "2021-11-02T13:00:29Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "5f8f453ea9334ed595b3ee1f48be2da8",
+      "external_id": "H054QV-AUS-ENG",
+      "data": {
+        "title": "How African-Americans Advance at Work — And What Organizations Can Do to Help",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Laura Morgan Roberts"],
+        "creation_date": "2019-08-27T13:15:22Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "5f9e27c97c55473cb08f0a676ffe223f",
+      "external_id": "H08G2S-AUS-ENG",
+      "data": {
+        "title": "Malcolm Gladwell’s New Take on Tipping Points",
+        "subtitle": null,
+        "creators": ["Adi Ignatius", "Malcolm Gladwell"],
+        "creation_date": "2024-10-10T14:55:54Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "62b3f7bd829d42fa9269e81fa111c6cc",
+      "external_id": "H06XIH-AUS-ENG",
+      "data": {
+        "title": "DEI Isn’t Enough; Companies Need Anti-Racist Leadership",
+        "subtitle": null,
+        "creators": ["Alison Beard", "JAMES WHITE", "Krista White"],
+        "creation_date": "2022-03-15T13:00:00Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "6651a50100de4f098637d3587965c550",
+      "external_id": "H078N0-AUS-ENG",
+      "data": {
+        "title": "Larry Fink at BlackRock: Linking Purpose to Profit",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "George Serafeim"],
+        "creation_date": "2022-09-20T12:00:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "66a3e130a4b944c7b0731ea8b1829c40",
+      "external_id": "H05CDG-AUS-ENG",
+      "data": {
+        "title": "How One CEO Successfully Led a Digital Transformation",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Nancy Mckinstry"],
+        "creation_date": "2019-12-24T14:15:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "69818f90637b4188907b38d9a0b23d98",
+      "external_id": "H06WWJ-AUS-ENG",
+      "data": {
+        "title": "You’re Overlooking a Source of Diversity: Age",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Megan Gerhardt"],
+        "creation_date": "2022-03-08T14:00:37Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "6cb06516577e451ea8fce0aa9751839f",
+      "external_id": "H07GW2-AUS-ENG",
+      "data": {
+        "title": "Addressing Racial Discrimination on Airbnb",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "MIKE LUCA"],
+        "creation_date": "2023-01-31T13:00:59Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "736b5d3b986e4dfebaf22dad73865079",
+      "external_id": "H08SZT-AUS-ENG",
+      "data": {
+        "title": "Ensuring Boston Ballet Stays Relevant",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Edward Chang", "MING MIN HUI"],
+        "creation_date": "2025-06-24T12:22:38Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "768ef99376c74554bbae9328eebc9f01",
+      "external_id": "H05YUP-AUS-ENG",
+      "data": {
+        "title": "How Those With Power and Privilege Can Help Others Advance",
+        "subtitle": null,
+        "creators": ["Alison Beard", "David Smith", "Tsedale M Melaku"],
+        "creation_date": "2020-10-27T14:18:32Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "789c9c7664a142adacfe3b8ea0dade2f",
+      "external_id": "H005OQ-AUS-ENG",
+      "data": {
+        "title": "When Women Ask for Raises",
+        "subtitle": null,
+        "creators": ["Sarah Green Carmichael", "Whitney Johnson"],
+        "creation_date": "2009-12-10T23:37:00Z",
+        "publisher": "Harvard Business Publishing",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "7f12c3bf0aed4d728d72b98f5c6a94cb",
+      "external_id": "H08MSN-AUS-ENG",
+      "data": {
+        "title": "If DEI Programs Aren’t Effective, What Is?",
+        "subtitle": null,
+        "creators": ["ALISON BEARD", "Iris Bohnet", "Siri Chilazi"],
+        "creation_date": "2025-02-11T13:00:31Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "8131e8619d694f8facb238eaab7b75b2",
+      "external_id": "H05F97-AUS-ENG",
+      "data": {
+        "title": "How People Succeed By Defying Expectations",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Laura Huang"],
+        "creation_date": "2020-02-11T14:15:58Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "84cb153d02bc4ffab99d08c73e15b85f",
+      "external_id": "H07EG0-AUS-ENG",
+      "data": {
+        "title": "You’ve Made Some DEI Progress. Don’t Stop Now",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Ella F Washington"],
+        "creation_date": "2022-12-06T14:00:19Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "86578744738044579fdbc72713faae79",
+      "external_id": "H05775-AUS-ENG",
+      "data": {
+        "title": "Melinda Gates on Fighting for Gender Equality",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Melinda Gates"],
+        "creation_date": "2019-10-04T12:57:15Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "8a4edcb26c8447afb94e695807ede98e",
+      "external_id": "H06OZR-AUS-ENG",
+      "data": {
+        "title": "If We Want Equity, Work Needs to Be Less Greedy",
+        "subtitle": null,
+        "creators": ["Claudia Goldin", "Amy Gallo", "Amy Bernstein"],
+        "creation_date": "2021-11-08T20:39:39Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "8bd06507f04e439f98f73b2aee0e0f98",
+      "external_id": "H06UPK-AUS-ENG",
+      "data": {
+        "title": "Making Diverse Leadership a Priority at Whittier College",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Debora Spar", "LINDA OUBRE"],
+        "creation_date": "2022-02-01T13:00:48Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "a316cab03a0841dfa86f3b6f71b4635e",
+      "external_id": "H06IG5-AUS-ENG",
+      "data": {
+        "title": "Moving the Needle on DEI",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Shelly McNamara"],
+        "creation_date": "2021-08-03T13:00:56Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "a569251499ac481689d58b5c51ec3f4f",
+      "external_id": "H04Z6U-AUS-ENG",
+      "data": {
+        "title": "There’s More to Gender Than “Man” and “Woman”",
+        "subtitle": null,
+        "creators": [
+          "Nicole Torres",
+          "Amy Bernstein",
+          "Amy Gallo",
+          "Lily Zheng"
+        ],
+        "creation_date": "2019-05-27T14:00:10Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "a82d9bfb26e24405aa073e23e2c9438d",
+      "external_id": "H06CEK-AUS-ENG",
+      "data": {
+        "title": "Reversing Brain Drain: Moving Talent to Middle America",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "RAJ CHOUDHURY"],
+        "creation_date": "2021-05-04T13:01:13Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "b59231a391f64ea18ba12c406665e349",
+      "external_id": "H05CIB-AUS-ENG",
+      "data": {
+        "title": "Gender Equality Issues",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Daniel McGinn", "Michelle King"],
+        "creation_date": "2019-12-26T14:15:51Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "b6eedf17743448c584acf6811a57fb64",
+      "external_id": "H0782T-AUS-ENG",
+      "data": {
+        "title": "Work-Life Supports That Truly Help Your Organization",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Alexandra Kalev"],
+        "creation_date": "2022-09-06T13:40:27Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "bc6f5cb1df8d4101b7396279fdb8b89d",
+      "external_id": "H07QC9-AUS-ENG",
+      "data": {
+        "title": "Diversity and Inclusion at Mars Petcare: Translating Awareness into Action",
+        "subtitle": null,
+        "creators": [
+          "Brian Kenny",
+          "Katie Coffman",
+          "ERICA COLETTA",
+          "IBTEHAL FATHY"
+        ],
+        "creation_date": "2023-07-18T12:22:29Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "bd9b5f4206ff4391a76faecd18c41aa7",
+      "external_id": "H05P69-AUS-ENG",
+      "data": {
+        "title": "Megan Rapinoe on Leading — On and Off the Field",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Megan Rapinoe"],
+        "creation_date": "2020-06-16T13:00:25Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-7.png"
+    },
+    {
+      "uuid": "c1a0c2702e454abfac00a08b79a4c231",
+      "external_id": "H07SW6-AUS-ENG",
+      "data": {
+        "title": "People with Disabilities Are an Untapped Talent Pool",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Luisa Alemany"],
+        "creation_date": "2023-09-12T12:00:34Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "c7ed94eb9cf042ac80d53172c6814808",
+      "external_id": "H03IZO-AUS-ENG",
+      "data": {
+        "title": "Making Intel More Diverse",
+        "subtitle": null,
+        "creators": [
+          "Sarah Green Carmichael",
+          "Brian Krzanich",
+          "Danielle Brown"
+        ],
+        "creation_date": "2017-03-10T01:42:59Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "cc6686bd4bce43258219e72b95de2af9",
+      "external_id": "H073XH-AUS-ENG",
+      "data": {
+        "title": "What Does It Take to Close the Opportunity Gap in America’s Labor Market?",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "MAURICE JONES", "KASH RANGAN"],
+        "creation_date": "2022-06-14T12:00:58Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "cc86f78866954cadac1b03cd1534fee0",
+      "external_id": "H04TFU-AUS-ENG",
+      "data": {
+        "title": "Fixing Tech’s Gender Gap",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Reshma Saujani"],
+        "creation_date": "2019-02-26T15:40:36Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "d0f7eddecf644103b832bde513a8f809",
+      "external_id": "H05GFP-AUS-ENG",
+      "data": {
+        "title": "How Workplaces — Not Women — Need to Change to Improve Equality",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Michelle King"],
+        "creation_date": "2020-03-03T14:15:17Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "d752051ff2cc4d408a087be252f61c60",
+      "external_id": "H073XG-AUS-ENG",
+      "data": {
+        "title": "Fighting Bias and Inequality at the Team Level",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "TRIER BRYANT"],
+        "creation_date": "2022-06-14T13:00:13Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "d770ef3a0b1c48c2b886071a4147c3d9",
+      "external_id": "H07TD5-AUS-ENG",
+      "data": {
+        "title": "How Companies Can Recommit to Their DEI Goals",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Laura Morgan Roberts"],
+        "creation_date": "2023-09-19T12:00:46Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "daaaa58e995f4cb2866e1702b1866661",
+      "external_id": "H05EGX-AUS-ENG",
+      "data": {
+        "title": "Why Backstage Capital Invests in “Underestimated” Entrepreneurs",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Laura Huang", "Arlan Hamilton"],
+        "creation_date": "2020-02-04T13:44:32Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "dbea44d642f249d99451a7256be7281a",
+      "external_id": "H067AM-AUS-ENG",
+      "data": {
+        "title": "Fostering Authenticity and Employee Engagement at John Deere",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "TONY MAYO"],
+        "creation_date": "2021-02-16T13:12:02Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "e0933161286c4d458962d62f3b4b6709",
+      "external_id": "H047ML-AUS-ENG",
+      "data": {
+        "title": "Harvard’s President on Leading During a Time of Change",
+        "subtitle": null,
+        "creators": ["Sarah Green Carmichael", "Drew Gilpin Faust"],
+        "creation_date": "2018-03-07T18:25:21Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "e10ab501ba3c4728b9139df2a213d5ac",
+      "external_id": "H07WXC-AUS-ENG",
+      "data": {
+        "title": "Building a More Equitable Culture at Delta Air Lines",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Linda A. Hill"],
+        "creation_date": "2023-11-21T13:22:17Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "e3d02d68adbd46d695cda33cce52637c",
+      "external_id": "H05VFF-AUS-ENG",
+      "data": {
+        "title": "Cultivate a Trans-Inclusive Workplace",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "Katina Sawyer"],
+        "creation_date": "2020-09-15T13:00:15Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "e405b07ccb1247bfa814a26edb1c36f5",
+      "external_id": "H06VEV-AUS-ENG",
+      "data": {
+        "title": "How to Make Venture Capital Accessible for Black Founders: An Entrepreneur’s Dilemma",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Jo Tango", "KEVIN D. JOHNSON"],
+        "creation_date": "2022-02-15T13:00:27Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "ec4959ee6e4a4b238674469dbbccca3e",
+      "external_id": "H05RB4-AUS-ENG",
+      "data": {
+        "title": "Starbucks Commits to Raising Awareness of Racial Bias",
+        "subtitle": null,
+        "creators": ["Brian Kenny", "Francesca Gino", "Katie Coffman"],
+        "creation_date": "2020-07-21T13:18:23Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "ed20d983b9be4a32abd30461ef3d1968",
+      "external_id": "H07QL7-AUS-ENG",
+      "data": {
+        "title": "Megan Rapinoe on Team-First Leadership",
+        "subtitle": null,
+        "creators": ["HANNAH BATES", "Alison Beard", "Megan Rapinoe"],
+        "creation_date": "2023-07-26T10:02:53Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-3.png"
+    },
+    {
+      "uuid": "edb3fc983d78493a8762b387cf1b9122",
+      "external_id": "H008L6-AUS-ENG",
+      "data": {
+        "title": "Do Women Need Confidence—Or Quotas?",
+        "subtitle": null,
+        "creators": ["Sarah Green Carmichael", "Avivah Wittenberg-Cox"],
+        "creation_date": "2012-03-29T21:48:55Z",
+        "publisher": "Harvard Business Publishing",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    },
+    {
+      "uuid": "ee7fbf45ffef45d4936579303cabeee7",
+      "external_id": "H02PSN-AUS-ENG",
+      "data": {
+        "title": "Talking About Race at Work",
+        "subtitle": null,
+        "creators": ["Sarah Green Carmichael", "Kira Hudson Banks"],
+        "creation_date": "2016-03-03T22:42:26Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "f6492aeddfb442eb909b9d2e0ce7b4ee",
+      "external_id": "H04V18-AUS-ENG",
+      "data": {
+        "title": "Black Business Leaders Series: Putting Diversity to Work",
+        "subtitle": null,
+        "creators": ["Brian Kenny"],
+        "creation_date": "2017-01-26T14:00:04Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "f83343c0ebb54790912cb7b3f3576d7c",
+      "external_id": "H08OTX-AUS-ENG",
+      "data": {
+        "title": "Navigating the Hybrid Work Dilemma",
+        "subtitle": null,
+        "creators": ["Curt Nickisch", "RAJ CHOUDHURY"],
+        "creation_date": "2025-04-01T12:00:38Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-2.png"
+    },
+    {
+      "uuid": "f9eb182279d34bd6bc42277187e6dd94",
+      "external_id": "H07VK9-AUS-ENG",
+      "data": {
+        "title": "Getting Feedback Right on Diverse Teams",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Erin Meyer"],
+        "creation_date": "2023-10-24T12:00:26Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-5.png"
+    },
+    {
+      "uuid": "fb08346d6587431691b88556612e9f64",
+      "external_id": "H06PEZ-AUS-ENG",
+      "data": {
+        "title": "Can Mass General Brigham Diversify Its Community of Innovators?",
+        "subtitle": null,
+        "creators": [
+          "Brian Kenny",
+          "Katie Coffman",
+          "CHRIS COBURN",
+          "DIANA SCHWARTZSTEIN"
+        ],
+        "creation_date": "2021-11-16T13:01:57Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-6.png"
+    },
+    {
+      "uuid": "fc83793a158048139fea0d05d7cfb602",
+      "external_id": "H05CYS-AUS-ENG",
+      "data": {
+        "title": "A New Way to Combat Bias at Work",
+        "subtitle": null,
+        "creators": ["Alison Beard", "Joan Williams"],
+        "creation_date": "2020-01-14T14:15:55Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-4.png"
+    },
+    {
+      "uuid": "fe7dd41fba294c5f89308568f5a159a3",
+      "external_id": "H03OC5-AUS-ENG",
+      "data": {
+        "title": "Why Doesn’t More of the Working Class Move for Jobs?",
+        "subtitle": null,
+        "creators": ["Sarah Green Carmichael", "Joan C. Williams"],
+        "creation_date": "2017-05-18T21:34:05Z",
+        "publisher": "Harvard Business Review Digital Article",
+        "source_url": ""
+      },
+      "cover_image": "https://static.cashmere.io/images/default/cover-1.png"
+    }
+  ],
+  "count": 80
+}

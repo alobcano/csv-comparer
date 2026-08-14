@@ -1,0 +1,12 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements: Python CLI project to compare CSV fields and output only fields that are new in the second file.
+- [x] Scaffold the Project: Created project files and folder structure in the current directory.
+- [x] Customize the Project: Implemented CSV field comparison and output generation logic.
+- [x] Install Required Extensions: No extensions needed.
+- [x] Compile the Project: Verified code compiles and runs.
+- [x] Create and Run Task: No tasks.json needed for this simple CLI project.
+- [x] Launch the Project: Skipped launch/debug session because no debug confirmation was requested.
+- [x] Ensure Documentation is Complete: README and this file are present and updated.
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
