@@ -12,7 +12,7 @@ This project compares two CSV files by using the first column as the row key and
   - **common**: Finds rows with matching keys in both CSVs (outputs in second CSV format)
   - **both**: Generates both new and deleted row files in a single run
   - **duplicates**: Finds rows with duplicate values in a specified column (default column: `S3_PATH`)
-  - **json**: Exports `external_id`, `title`, and `publisher` from a JSON file with an `items` array
+  - **json**: Exports `external_id`, `uuid`, `title`, and `publisher` from a JSON file with an `items` array
 - Collects all key values from the reference CSV
 - Scans rows and keeps those matching the selected mode
 - Writes results to output CSV(s) with columns from the source CSV
@@ -46,9 +46,9 @@ python3 main.py base.csv updated.csv new_rows.csv --mode=both --output-deleted d
 python3 main.py input.csv duplicated.csv --mode=duplicates
 
 # Find rows with duplicate values in a custom column
-python3 main.py input.csv duplicates.csv --mode=duplicates --column=AVAILABILITY_PK
+python3 main.py output.csv duplicates.csv --mode=duplicates --column=external_id
 
-# Export external_id, title, publisher from JSON
+# Export external_id, uuid, title, publisher from JSON
 python3 main.py omnipubs.json output.csv --mode=json
 ```
 
@@ -70,7 +70,7 @@ python3 main.py omnipubs.json output.csv --mode=json
   - `common`: Find rows with matching keys in both CSVs (uses updated_csv column format)
   - `both`: Find both new and deleted rows
   - `duplicates`: Find rows with duplicate values in a column (only `base_csv` and `output_csv` needed)
-  - `json`: Export `external_id`, `title`, `publisher` from each object in `items` (only `base_csv` and `output_csv` needed)
+  - `json`: Export `external_id`, `uuid`, `title`, `publisher` from each object in `items` (only `base_csv` and `output_csv` needed)
 - `--output-deleted PATH`: Path for deleted rows (required when using `--mode=both`)
 - `--column NAME`: Column name to check for duplicates (only used with `--mode=duplicates`, default: `S3_PATH`)
 - `--key-column NAME`: Column name to use as the comparison key for `new`, `deleted`, `common`, and `both` modes (default: first column)
